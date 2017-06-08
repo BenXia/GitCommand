@@ -1,2 +1,3 @@
 this is a test file for third commit
-modify last commit test(git commit --amend)
+modify last commit (git commit --amend)
+modify last commit (git reset HEAD^)(test not chang SHA id)
